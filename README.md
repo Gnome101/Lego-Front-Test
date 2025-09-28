@@ -2,6 +2,14 @@
 
 An AI-powered system that generates LEGO models from natural language prompts using the Snowflake Cortex API and creates LDraw (.ldr) files with a built-in 3D viewer.
 
+
+## Related Repositories
+
+This project is part of a microservice architecture. See also:
+
+- [lego-ai-service](https://github.com/Gnome101/lego-ai-service) - Service for having AI write and execute code
+- [Brickyard](https://github.com/Gnome101/Brickyard) - Build caching service
+
 ## Features
 
 - 🤖 AI-powered model generation from text prompts
